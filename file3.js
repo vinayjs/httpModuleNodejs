@@ -1,1 +1,1 @@
-writeFile method -new file
+writeFile method -new file add beneath the existing data
